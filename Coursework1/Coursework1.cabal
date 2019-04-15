@@ -1,0 +1,30 @@
+name: Coursework1
+version: 0.0.1
+cabal-version: >=1.2
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+synopsis: Coursework Assignment for Functional Programming ECS713P
+description: The coursework submission for assignment 1. It contains:
+             - A JSON to XML parser
+             - An XML to JSON parser
+             - Documentation about the chosen JSON Dataset
+             - Some other example JSON Datasets
+             .
+             The main entry point for the json parser is JSONParser.hs
+             The entry point for the xml parser is XMLParser.hs
+data-dir: ""
+ 
+executable Coursework1
+    build-depends: QuickCheck -any, base -any
+    main-is: Main.hs
+    buildable: True
+    hs-source-dirs: src
+ 
+test-suite test-Coursework1
+    build-depends: QuickCheck -any, base -any
+    type: exitcode-stdio-1.0
+    main-is: Main.hs
+    buildable: True
+    cpp-options: -DMAIN_FUNCTION=testMain
+    hs-source-dirs: src
