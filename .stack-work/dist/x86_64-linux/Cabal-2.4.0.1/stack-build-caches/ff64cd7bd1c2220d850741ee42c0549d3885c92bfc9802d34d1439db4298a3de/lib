@@ -1,0 +1,24 @@
+/home/stephen/Documents/git/json-parser/README.md:
+  hash: 577c1813fd0484f6e040fc5495a299906908395d2becc6799bc4a8dd8bd45553
+  size: 14
+  modtime: 1565959408
+/home/stephen/Documents/git/json-parser/package.yaml:
+  hash: 0980ea9ff91f6f8a5de7b7e18bc6301c7307fbe4bb393860cb3d81302845a950
+  size: 1174
+  modtime: 1565959408
+/home/stephen/Documents/git/json-parser/src/Lib.hs:
+  hash: 11d6d255cb397fa45980eb516ea685146565d9de2108c4eea356ea41db8364be
+  size: 88
+  modtime: 1565959408
+/home/stephen/Documents/git/json-parser/ChangeLog.md:
+  hash: 4482e07f03ad9446c749b8e96601f239442d58c2de9191903c48d49c0f9062b3
+  size: 51
+  modtime: 1565959408
+/home/stephen/Documents/git/json-parser/src/Parser/JSON.hs:
+  hash: 2504f8d9ed8c0ceb08c2653a1f2837e9a32e336893a76815d16fe968bce56dfb
+  size: 6947
+  modtime: 1565959084
+/home/stephen/Documents/git/json-parser/json-parser.cabal:
+  hash: cb3638711b6b1d3171c8594bb0a487c5313f5e6ebcc2ed3de7cca9bf1df43bd7
+  size: 1524
+  modtime: 1565959666
