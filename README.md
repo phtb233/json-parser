@@ -6,5 +6,8 @@ A basic json parser written for a coursework assignment. Also includes an xml pa
 ```
 git clone https://github.com/phtb233/json-parser
 cd json-parser
-stack run
+stack run <file>
 ```
+
+Example files `example.json` and `example.xml` are in `app/data`.
+
